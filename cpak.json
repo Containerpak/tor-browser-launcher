@@ -42,23 +42,7 @@
     "hostActions": [],
     "filesystem": [
       {
-        "path": "xdg-documents",
-        "access": "read-write"
-      },
-      {
         "path": "xdg-download",
-        "access": "read-write"
-      },
-      {
-        "path": "xdg-music",
-        "access": "read-write"
-      },
-      {
-        "path": "xdg-pictures",
-        "access": "read-write"
-      },
-      {
-        "path": "xdg-videos",
         "access": "read-write"
       }
     ],

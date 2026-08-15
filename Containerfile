@@ -7,3 +7,4 @@ RUN apt-get update && \
     cpak-clean-junk
 
 COPY org.torproject.torbrowser-launcher.desktop /usr/share/applications/org.torproject.torbrowser-launcher.desktop
+COPY icon.png /usr/share/icons/hicolor/128x128/apps/torbrowser.png
