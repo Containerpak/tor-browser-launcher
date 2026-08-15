@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Tor Browser Launcher
+Comment=Download, verify and launch Tor Browser.
+Exec=torbrowser-launcher %u
+Icon=torbrowser
+Terminal=false
+Categories=Network;WebBrowser;Security;
