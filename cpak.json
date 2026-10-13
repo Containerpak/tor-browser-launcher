@@ -4,7 +4,7 @@
   "name": "Tor Browser Launcher",
   "description": "Download, verify and launch Tor Browser.",
   "version": "0.3.9",
-  "image": "ghcr.io/containerpak/tor-browser-launcher@sha256:ec0504ee614c03eb455c9c373614480de45e84016bc70c2edd2840f5eb6c395a",
+  "image": "ghcr.io/containerpak/tor-browser-launcher@sha256:b0e06c87caa63855e43bad51b4b5827dc54f33fbe7ef5dbda03f98f0fdcda60c",
   "binaries": [
     "/usr/bin/torbrowser-launcher"
   ],
